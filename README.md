@@ -13,7 +13,7 @@ This project serves as a key part of my AI thesis
 ## 📌Project Overview
 This notebook classifies human emotions from voice using MFCC features and a MLP model trained on the ASED(Amharic Speech Emotion Detection) dataset.
 
-It builds on an existing Kaggle-baased appproach, improved by fine-tuning features and architecture - resulting in  **14% accuracy improvement** (final accuracy **77%**)
+It builds on an existing Kaggle-baased appproach, improved by fine-tuning features and architecture - resulting in  **26.19% accuracy improvement** (final accuracy **89.15%**)
 ---
 
 
