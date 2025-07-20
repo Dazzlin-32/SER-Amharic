@@ -58,7 +58,7 @@ It builds on an existing Kaggle-baased appproach, improved by fine-tuning featur
 | Metric         | Value   |
 |----------------|---------|
 | Baseline Accuracy | ~62.96%    |
-| Final Accuracy    | *89.15%* |
+| Final Accuracy    | *~89.15%* |
 | Accuracy Gain     | +26.19%     |
 
 ### 🔍 Observations
